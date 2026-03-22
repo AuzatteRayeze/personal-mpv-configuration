@@ -22,7 +22,7 @@ Monitor: LG UltraGear Tandem OLED 280Hz | 100% SRGB, 99.5% AdobeRGB, 99.5% DCI-P
 
 Minimum Luminance: 0.0005cd/m² | Maximum Luminance: 1497cd/m² | Maxmimum Full-Frame Luminance: 603cd/m²
 
-Signal Mode: 2560x1440 @ 280Hz 12-bit depth | Desktop Mode: 3840x2160 @ 120Hz 12-bit depth
+Signal Mode: 2560x1440 @ 280Hz 12-bit depth with dithering to 16-bit | Desktop Mode: 3840x2160 @ 120Hz 12-bit depth with dithering to 16-bit
 
 # General Information
 
