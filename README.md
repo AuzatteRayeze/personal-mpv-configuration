@@ -20,7 +20,7 @@ Storage: Fantom Drives VENOM8 2TB Gen 4 M.2 NVMe | Read: 7400MB/s Write: 6900MB/
 
 Monitor: LG UltraGear Tandem OLED 280Hz | 100% SRGB, 99.5% AdobeRGB, 99.5% DCI-P3, 82% BT.2020 | VESA DisplayHDR True Black 500
 
-Minimum Luminance: 0.0005cd/m² | Maximum Luminance: 1497cd/m² | Maxmimum Full-Frame Luminance: 603cd/m²
+Minimum Luminance: 0.0005cd/m² | Maximum Luminance: 1500cd/m² | Maxmimum Full-Frame Luminance: 600cd/m²
 
 Signal Mode: 2560x1440 @ 280Hz 12-bit depth plus dithering ontop to mimic higher bit depths | Desktop Mode: 3840x2160 @ 120Hz 12-bit depth plus dithering ontop to mimic higher bit depths
 
