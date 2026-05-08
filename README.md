@@ -8,7 +8,7 @@ Credit for those files that were not created by me goes completely towards their
 
 Processor: AMD Ryzen 7 5800X3D 4.5GHz Boost with -30 Curve Optimizer applied All Core
 
-Graphics Card: AMD Radeon XFX Mercury Magnetic Air 7900XTX | GFXClk @3200MHz | UV @1125mV | MEMClk Fast Timings @2664MHz
+Graphics Card: AMD Radeon XFX Mercury Magnetic Air 9070XT | GFXClk @3500MHz | MEMClk Fast Timings @2814MHz
 
 Motherboard: ASUS ROG STRIX B550-F (Heavily Tweaked BIOS Settings)
 
@@ -36,7 +36,7 @@ This configuration is being used with the latest git mpv build provided by Zhong
 **SmoothVideoPlayer4 Settings**
 Best Settings Utilizing SVP4 Interpolation Engine for 4K120fps playback
 
-<img width="522" height="512" alt="{3BE49585-B68D-4E21-B510-74D18E2EAAA1}" src="https://github.com/user-attachments/assets/b24ccf40-af9b-4d68-8e56-f405960037f1" />
+<img width="528" height="548" alt="{376C5867-12F1-4DD8-8B99-EB6A93D72808}" src="https://github.com/user-attachments/assets/c42291d3-ab83-427b-9c38-e7228a865928" />
 
 Forcing an exact multiplier leads to less CPU usage as well as less power since it is easier to compute than forcing a fixed framerate.
 
