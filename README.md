@@ -30,8 +30,7 @@ This configuration is being used with the latest git mpv build provided by H7-26
 
 # General Settings
 **AMD Radeon Software Settings**
-
-<img width="1458" height="1031" alt="{4EDC3BA7-B56A-448F-B231-CC457356562F}" src="https://github.com/user-attachments/assets/3cf95a47-8b44-47ef-a975-79bdc8f4564b" />
+<img width="2906" height="2050" alt="2026-07-09 18-29-34-344 SDR" src="https://github.com/user-attachments/assets/c5b92a39-40c9-44f8-b3af-14fdc8652514" />
 
 **SmoothVideoPlayer4 Settings**
 Best Settings Utilizing SVP4 Interpolation Engine for 4K120fps playback
