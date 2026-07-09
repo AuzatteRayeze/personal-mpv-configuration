@@ -26,7 +26,7 @@ Signal Mode: 2560x1440 @ 280Hz 12-bit depth plus dithering ontop to mimic higher
 
 # General Information
 
-This configuration is being used with the latest git mpv build provided by Zhongfly's repoistory (https://github.com/zhongfly/mpv-winbuild) & the latest stable release of SmoothVideoProject (https://www.svp-team.com/).
+This configuration is being used with the latest git mpv build provided by H7-26's repoistory (https://github.com/H7-26/mpv-winbuild) which is currently the most performant forks that I know of & the latest stable release of SmoothVideoProject (https://www.svp-team.com/).
 
 # General Settings
 **AMD Radeon Software Settings**
