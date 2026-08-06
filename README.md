@@ -47,8 +47,6 @@ Registry Path: Computer\HKEY_CURRENT_USER\Software\Microsoft\DirectX\UserGpuPref
 
 Value Name: C:\Users\Admin\Documents\mpv\mpv.exe | Value Data: VRROptimizeEnable=0;AutoHDREnable=48;SwapEffectUpgradeEnable=1;SwapEffectUpgradeCache=1;GpuPreference=2
 
-mpv.exe Properties Compatibility Tab: Checked Disable fullscreen optimizations | High DPI scaling override: Scaling performed by Application
-
 # Note
 I absolutely refuse to use RIFE AI Interpolation as it is way more damaging to the original content when compared to SVP4's own interpolation methods.
 RIFE AI can and will either completely destroy the real original frames or make original frames completely vanish when used.
