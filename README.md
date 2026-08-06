@@ -41,7 +41,7 @@ Forcing an exact multiplier leads to less CPU usage as well as less power since 
 
 **Windows Graphics Settings**
 
-<img width="626" height="207" alt="{882407F2-FB91-4A88-8385-314552C65384}" src="https://github.com/user-attachments/assets/e13a2bcc-cdb0-4949-937f-65a00c6728db" />
+<img width="637" height="216" alt="{AE5A06D8-F433-4079-BE57-023493B2FEF9}" src="https://github.com/user-attachments/assets/df20d434-0ded-4999-812c-745cc2f66627" />
 
 Registry Path: Computer\HKEY_CURRENT_USER\Software\Microsoft\DirectX\UserGpuPreferences
 
