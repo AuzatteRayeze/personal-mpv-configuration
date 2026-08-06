@@ -26,7 +26,7 @@ Signal Mode: 2560x1440 @ 280Hz 12-bit depth plus dithering ontop to mimic higher
 
 # General Information
 
-This configuration is being used with the latest git mpv build provided by H7-26's repoistory (https://github.com/H7-26/mpv-winbuild) which is currently the most performant forks that I know of & the latest stable release of SmoothVideoProject (https://www.svp-team.com/).
+This configuration is being used with the the latest stable release of SmoothVideoProject (https://www.svp-team.com/) utilizing performance optimized stable release of mpv media player for SVP4
 
 # General Settings
 **AMD Radeon Software Settings**
@@ -45,7 +45,7 @@ Forcing an exact multiplier leads to less CPU usage as well as less power since 
 
 Registry Path: Computer\HKEY_CURRENT_USER\Software\Microsoft\DirectX\UserGpuPreferences
 
-Value Name: C:\Users\Admin\Documents\mpv\mpv.exe | Value Data: VRROptimizeEnable=0;AutoHDREnable=48;SwapEffectUpgradeEnable=1;SwapEffectUpgradeCache=1;GpuPreference=2
+Value Name: C:\Program Files\SVP 4\mpv64\mpv.exe | Value Data: VRROptimizeEnable=0;AutoHDREnable=48;SwapEffectUpgradeEnable=1;SwapEffectUpgradeCache=1;GpuPreference=2
 
 # Note
 I absolutely refuse to use RIFE AI Interpolation as it is way more damaging to the original content when compared to SVP4's own interpolation methods.
