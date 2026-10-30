@@ -26,7 +26,7 @@ Signal Mode: 2560x1440 @ 280Hz 12-bit depth | Desktop Mode: 3840x2160 @ 120Hz 12
 
 # General Information
 
-This configuration is being used with the latest git mpv build provided by H7-26's repoistory (https://github.com/H7-26/mpv-winbuild) & the latest stable release of SmoothVideoProject (https://www.svp-team.com/).
+This configuration is being used with the latest official mpv development build (https://github.com/mpv-player/mpv/releases/tag/git-release) & the latest stable release of SmoothVideoProject (https://www.svp-team.com/).
 
 # General Settings
 **AMD Radeon Software Settings**
